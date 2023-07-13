@@ -1,8 +1,9 @@
-# Olá, me chamo Sérgio Carvalho ! 
-## Bem vindo ao meu perfil GitHub 👋
+<h1> Olá, me chamo Sérgio Carvalho ! </h1> 
+<h2>Bem vindo ao meu perfil GitHub 👍</h2> 
+
 ## Hello, Devs!!
 
--  Estou cursando faculdade de Análise e Desenvolvimento de Sistemas.
+- 📚 Estou cursando faculdade de **Análise e Desenvolvimento de Sistemas**.
 - 🌱 Estudando Python e outras tecnologias
 
 <div>
