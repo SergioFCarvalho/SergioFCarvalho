@@ -1,7 +1,10 @@
 <h1> Olá, me chamo Sérgio Carvalho ! </h1> 
 <h2>Bem vindo ao meu perfil GitHub 👍</h2> 
 
-## Hello, Devs!!
+| Hello, Devs!! |
+|---------------|
+
+
 
 - 📚 Estou cursando faculdade de **Análise e Desenvolvimento de Sistemas**.
 - 🌱 Estudando Python e outras tecnologias
