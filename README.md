@@ -9,11 +9,7 @@
 - 📚 Estou cursando faculdade de **Análise e Desenvolvimento de Sistemas**.
 - 🌱 Estudando Python e outras tecnologias
 
-<div>
-<a href="https://github.com/SergioFCarvalho">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioFCarvalho&layout=compact&langs_count=7&theme=dracula"/>
 
-</div>
 
 ## Estudando no momento:
 
