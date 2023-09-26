@@ -1,5 +1,4 @@
-<h1> Olá, me chamo Sérgio Carvalho ! </h1> 
-<h2>Bem vindo ao meu perfil GitHub 👍</h2> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&pause=1000&color=F7182A&center=true&width=435&lines=Ol%C3%A1%2C+me+chamo+S%C3%A9rgio+Carvalho+!++;Bem+vindo+ao+meu+perfil+GitHub+%F0%9F%91%8D" alt="Typing SVG" /></a>
 
 | Hello, Devs!! |
 |---------------|
