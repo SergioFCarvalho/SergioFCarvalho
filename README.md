@@ -4,9 +4,9 @@
 | Hello, Devs!! |
 |---------------|
 
+**<span style="color: #ff0000;"> Sérgio </span>**
 
-
-- 📚 Estou cursando faculdade de **Análise e Desenvolvimento de Sistemas**.
+- 📚 Estou cursando faculdade de  **Análise e Desenvolvimento de Sistemas**.
 - 🌱 Estudando Python e outras tecnologias
 
 
