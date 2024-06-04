@@ -6,7 +6,10 @@
 
 
 - 📚 Estou cursando faculdade de  **Análise e Desenvolvimento de Sistemas**.
-- 🌱 Estudando Python e outras tecnologias
+- 🌱 Estudando Python 
+- 🌱 Estudando JS 
+- 🌱 Estudando Angular 
+- 🌱 Estudando HTML e CSS 
 
 
 
