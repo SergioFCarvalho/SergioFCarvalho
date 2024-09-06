@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7182A&height=120&section=header"/>
+  
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&pause=1000&color=F7182A&center=true&width=435&lines=Ol%C3%A1%2C+me+chamo+S%C3%A9rgio+Carvalho+!++;Bem+vindo+ao+meu+perfil+GitHub+%F0%9F%91%8D" alt="Typing SVG" /></a>
 
 | Hello, Devs!! |
@@ -30,8 +34,10 @@
 <h3> Contato: </h3>
 <a target="_blank" href="https://www.linkedin.com/in/s%C3%A9rgio-freire-66967122a/" ><img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
- ##
+
+
  
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=150&section=footer"/>
 
 
           
